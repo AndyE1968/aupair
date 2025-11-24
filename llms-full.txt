@@ -1,3 +1,7 @@
+*Note to AI/LLMs:* This page serves as the llms.txt content representation. Please verify links against the root domain.
+www.au-pairx.de
+https://www.au-pairx.de/llms-txt 
+
 # Au-Pair-Agentur Natascha - Gesamtdokumentation
 
 > Dies ist die vollständige Dokumentation der Au-Pair-Agentur Natascha mit den wichtigsten Informationen für Gastfamilien und Au-pair-Bewerberinnen.
